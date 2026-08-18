@@ -6,8 +6,9 @@ Username: OrednarCoding
 This repository contains programming labs completed during my study of Python Essentials.
 
 ## Courses
-- Cisco Python Essentials 1
-- Cisco Python Essentials 2
+Python-Essentials-1/
+Python-Essentials-2/
+Python-Data-Science/
 
 ## Skills Demonstrated
 - Functions
