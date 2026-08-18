@@ -58,6 +58,11 @@ Python-Data-Science/
 
 - Skeletal Variation Project
 - People of Banknotes Project
+- First day of Week Project
+- Jean Pockets Project
+- Largest Islands Project
+- Naming Colors Project
+- World Connected Project
 
   
 ## Tools and Technologies
