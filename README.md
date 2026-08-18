@@ -11,20 +11,59 @@ Python-Essentials-2/
 Python-Data-Science/
 
 ## Skills Demonstrated
+
+- Python Programming
 - Functions
 - Loops
+- Conditional Statements
 - Lists
+- Tuples
 - Dictionaries
 - String Manipulation
 - File Handling
+- Exception Handling
+- Data Validation
 - Algorithms
 - Problem Solving
+- Date and Time Processing
+- File System Navigation (os Module)
+- Data Analysis with pandas
+- Jupyter Notebooks
 
 ## Projects
+
+### Python Essentials 1
+
 - Leap Year Calculator
-- Tic Tac Toe
+- Days in Month Calculator
+- Day of Year Calculator
+- Tic-Tac-Toe
+
+### Python Essentials 2
+
+- Custom split() Function
 - LED Display Generator
-- Caesar Cipher
-- Palindrome Checker
+- Improved Caesar Cipher
 - Anagram Checker
+- Palindrome Checker
 - Digit of Life Calculator
+- Find a Word
+- Sudoku Validator
+- Character Frequency Histogram
+- Student Results Evaluator
+- Operating System Module Exercises
+- DateTime and Time Module Exercises
+
+### Python Data Science
+
+- Skeletal Variation Project
+- People of Banknotes Project
+
+  
+## Tools and Technologies
+
+- Python
+- Jupyter Notebook
+- GitHub
+- Visual Studio Code
+- pandas
